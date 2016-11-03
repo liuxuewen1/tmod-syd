@@ -1,6 +1,6 @@
 {
   "name": "tmodjs-syd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Template Compiler",
   "homepage": "https://github.com/aui/tmodjs",
   "keywords": [
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "art-template": "3.0.x",
-    "uglify-js": "^2.4.0",
+    "uglify-js": "2.4.0",
     "semver": "2.3.0"
   },
   "license": "BSD",
@@ -53,14 +53,8 @@
       "name": "aui",
       "email": "1987.tangbin@gmail.com"
     }
-  ]
-  // ,"dist": {
-  //   "shasum": "3cdea51ccf3de0dc1ed964729f963d23d98dad98",
-  //   "tarball": "https://registry.npmjs.org/tmodjs/-/tmodjs-1.0.3.tgz"
-  // },
-  // "directories": {},
-  // "_resolved": "https://registry.npmjs.org/tmodjs/-/tmodjs-1.0.3.tgz",
-  // "devDependencies": {
-  //   "uglify-js": "^2.7.4"
-  // }
+  ],
+  "devDependencies": {
+    "uglify-js": "2.4.0"
+  }
 }
