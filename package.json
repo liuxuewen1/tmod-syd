@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aui/tmodjs.git"
+    "url": "git+https://github.com/liuxuewen1/tmod-syd.git"
   },
   "main": "./src/tmod.js",
   "bin": {
@@ -37,7 +37,7 @@
   "license": "BSD",
   "gitHead": "b2346910e3340dd166c2eb236df24e6ed6f42b3e",
   "bugs": {
-    "url": "https://github.com/aui/tmodjs/issues"
+    "url": "https://github.com/liuxuewen1/tmod-syd/issues"
   },
   "_id": "tmodjs@1.0.3",
   "_shasum": "3cdea51ccf3de0dc1ed964729f963d23d98dad98",
